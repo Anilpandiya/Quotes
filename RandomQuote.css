@@ -1,0 +1,108 @@
+
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css");
+
+
+  body{
+      font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    background-color: #224;
+  }
+ 
+
+.quote-box{
+    border-radius:10px;
+    position:relative;
+    margin:8% auto auto auto;
+    width:400px;
+    padding:40px 50px;
+    display:table;
+    background-color:#fff;
+  
+}
+
+  .quote-text {
+   
+    text-align:center;
+    width:450px;
+    font-weight:500;
+    font-size:1.75em;
+    
+  }
+
+  .quote-author{
+    text-align: right;
+    padding-top:20px;
+    font-size:1em; 
+  }
+
+ 
+.foote {
+  text-align:center;
+  margin:50px auto 30px auto;
+  color:#fff;
+  
+ } 
+
+ #foot {
+    text-decoration:none;
+    color:#fff;
+  }
+   #foot:hover{
+  color:red;
+ }
+  
+
+
+ .last{
+      color: #fff;
+     }
+  p{
+    font-size: 18px;
+  }
+  #a{
+    text-decoration: none;
+    color: #fff;
+    padding-right: 18px;
+    text-align: center;
+    
+  }
+  #a:hover{
+    color: tomato;
+  }
+ .social{
+    font-size: 2em;   
+ }
+
+.button {
+      height:38px;
+      border:none;
+      border-radius:3px;
+      color:#fff;
+      background-color:#333;
+      outline:none;
+      font-size:0.85em;
+      padding: 8px 18px 6px 18px;
+      margin-top:30px;
+      opacity:1;
+      cursor:pointer;}
+
+
+      .button:hover {
+        opacity:0.9;
+      }
+      #twitter, #tumblr {
+        float:left;
+        padding:0px;
+        padding-top:8px;
+        text-align:center;
+        font-size:1.2em;
+        margin-right:5px;
+        height:30px;
+        width:40px;
+      }
+      #newone {
+        float:right;
+      }
+    }
+
+   
